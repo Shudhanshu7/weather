@@ -1,0 +1,33 @@
+.weather-app {
+    max-width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 30px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    
+    background-color: #0acaec;
+    padding: 12px;
+    
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: auto;
+
+}
+
+#weather-info {
+    margin-top: 20px;
+    font-size: 18px;
+}
