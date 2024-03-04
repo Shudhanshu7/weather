@@ -2,27 +2,28 @@
     max-width: 300px;
     margin: 50px auto;
     text-align: center;
+    background-color: lightblue;
+    margin-top: 10rem;
 }
 
 input[type="text"] {
     width: 200px;
-    height: 30px;
     background-color: antiquewhite;
     margin-bottom: 10px;
     font-size: 16px;
     padding-left: 5px;
+    margin: 2rem;
+    border-radius: 0.5rem;
+    height: 2.5rem;
 }
 
 button {
-    width: 100px;
-    height: 40px;
-    
-    background-color: #0acaec;
-    padding: 12px;
-    
+    height: 2.5rem;
+    width: 8rem;
+    background-color: mediumblue;
     color: #ffffff;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.8rem;
     cursor: auto;
 
 }
